@@ -4,12 +4,12 @@ Como utilizei mac para a configuração do MySQL utilizei o video: https://www.y
 <img src="https://img-c.udemycdn.com/course/240x135/2411816_3802_4.jpg" width="300" title="Capa do curso">
 
 # Aulas
-160. SQLite: usando o módulo sqlite3
-161. DB Browser for SQLite - Windows
-162. DB Browser for SQLite - Linux
-163. Python sqlite3 + DB Browser for SQLite
-164. Windows - Xampp + MySQL Workbench
-165. Linux - MariaDB Server + MySQL Workbench
+160. SQLite: usando o módulo sqlite3<br>
+161. DB Browser for SQLite - Windows<br>
+162. DB Browser for SQLite - Linux<br>
+163. Python sqlite3 + DB Browser for SQLite<br>
+164. Windows - Xampp + MySQL Workbench<br>
+165. Linux - MariaDB Server + MySQL Workbench<br>
 166. CRUD com Pymysql no MySQL e Mariadb Server
 
 # Links
